@@ -1,0 +1,8 @@
+.bg-box {
+    background-color: chartreuse;
+padding-top: 680px;
+background-image: url(../images/lamp-png-34914.png),url(../images/green-png-44873.png),url(../images/58eb07b830eab15b56162788.png),url(../images/3F3F.webp),url(../images/pole-zelen-trava-dom-derevya.jpg);
+background-position:top,bottom,right,left,center;
+background-size:50px,300px,30px,50px,500px;
+background-repeat:repeat-x,repeat-x,repeat-y,repeat-y,no-repeat;
+}
